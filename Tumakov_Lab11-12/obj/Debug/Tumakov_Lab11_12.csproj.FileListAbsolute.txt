@@ -1,0 +1,14 @@
+C:\Users\nonam\source\repos\DZ_30_11_23\Tumakov_Lab11-12\bin\Debug\Tumakov_Lab11-12.exe.config
+C:\Users\nonam\source\repos\DZ_30_11_23\Tumakov_Lab11-12\bin\Debug\Tumakov_Lab11-12.exe
+C:\Users\nonam\source\repos\DZ_30_11_23\Tumakov_Lab11-12\bin\Debug\Tumakov_Lab11-12.pdb
+C:\Users\nonam\source\repos\DZ_30_11_23\Tumakov_Lab11-12\bin\Debug\BankAccount.dll
+C:\Users\nonam\source\repos\DZ_30_11_23\Tumakov_Lab11-12\bin\Debug\Building.dll
+C:\Users\nonam\source\repos\DZ_30_11_23\Tumakov_Lab11-12\bin\Debug\BankAccount.pdb
+C:\Users\nonam\source\repos\DZ_30_11_23\Tumakov_Lab11-12\bin\Debug\BankAccount.dll.config
+C:\Users\nonam\source\repos\DZ_30_11_23\Tumakov_Lab11-12\bin\Debug\Building.pdb
+C:\Users\nonam\source\repos\DZ_30_11_23\Tumakov_Lab11-12\bin\Debug\Building.dll.config
+C:\Users\nonam\source\repos\DZ_30_11_23\Tumakov_Lab11-12\obj\Debug\Tumakov_Lab11_12.csproj.AssemblyReference.cache
+C:\Users\nonam\source\repos\DZ_30_11_23\Tumakov_Lab11-12\obj\Debug\Tumakov_Lab11_12.csproj.CoreCompileInputs.cache
+C:\Users\nonam\source\repos\DZ_30_11_23\Tumakov_Lab11-12\obj\Debug\Tumakov_Lab11_12.csproj.CopyComplete
+C:\Users\nonam\source\repos\DZ_30_11_23\Tumakov_Lab11-12\obj\Debug\Tumakov_Lab11-12.exe
+C:\Users\nonam\source\repos\DZ_30_11_23\Tumakov_Lab11-12\obj\Debug\Tumakov_Lab11-12.pdb
