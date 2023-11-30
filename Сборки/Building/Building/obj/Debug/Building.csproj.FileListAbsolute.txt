@@ -1,0 +1,7 @@
+C:\Users\nonam\source\repos\Building\Building\bin\Debug\Building.dll.config
+C:\Users\nonam\source\repos\Building\Building\bin\Debug\Building.dll
+C:\Users\nonam\source\repos\Building\Building\bin\Debug\Building.pdb
+C:\Users\nonam\source\repos\Building\Building\obj\Debug\Building.csproj.AssemblyReference.cache
+C:\Users\nonam\source\repos\Building\Building\obj\Debug\Building.csproj.CoreCompileInputs.cache
+C:\Users\nonam\source\repos\Building\Building\obj\Debug\Building.dll
+C:\Users\nonam\source\repos\Building\Building\obj\Debug\Building.pdb
