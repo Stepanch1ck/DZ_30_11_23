@@ -1,0 +1,12 @@
+Date: 15.12.2023 0:00:00
+Event: Концерт
+Participants count: 8
+Participants:
+Student12 (Group2)
+Student4 (Group3)
+Student9 (Group1)
+Student17 (Group2)
+Student11 (Group1)
+Student3 (Group1)
+Student4 (Group1)
+Student7 (Group2)
